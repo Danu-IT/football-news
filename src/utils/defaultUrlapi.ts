@@ -1,0 +1,1 @@
+export const defaultUrl = 'https://apiv2.apifootball.com'
